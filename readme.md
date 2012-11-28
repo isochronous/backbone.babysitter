@@ -36,6 +36,12 @@ Backbone.BabySitter exposes one constructor function: `Backbone.ChildViewContain
 This constructor function contains all of the necessary code for managing a list of
 views.
 
+Backbone.BabySitter's ChildViewContainer class also implements the same `extend` method from Marionette and Backbone, so you can create "sub-classes" that, for example, define an `initialize` method on the ChildViewContainer.
+
+### Initialization
+
+ChildViewContainer will call any initialize method defined on an object extended from ChildViewContainer, passing it the same `options` object that was passed to the constructor.
+
 ### Storing Views
 
 Views can be added to a container by calling the `add` method:
@@ -178,6 +184,7 @@ provide iterators and other collection functions, including:
 * find
 * detect
 * filter
+* pluck
 * select
 * reject
 * every
@@ -206,7 +213,7 @@ container.add(v2);
 container.add(v3);
 
 // iterate over all of the views
-container.each(function(view){
+contianer.each(function(view){
   
   // process each view individually, here
 
