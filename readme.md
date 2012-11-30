@@ -13,6 +13,10 @@ Backbone.BabySitter provides a simple way to manage an unknown number of
 child views within a Backbone.View, or other object that needst to track a
 list of views.
 
+## Specific to this Fork
+
+This fork was created because I wanted an initialize method to be available on Backbone.BabySitter, and I wanted `pluck` from Underscore's collection methods to be added to the list of methods borrowed from underscore.  Those are currently the only differences between this fork and the original version of BabySitter.
+
 ## Downloads And Source
 
 Grab the source from the `src` folder above. Grab the most recent builds
@@ -20,15 +24,15 @@ from the links below.
 
 ### Standard Builds
 
-* Development: [backbone.babysitter.js](https://raw.github.com/marionettejs/backbone.babysitter/master/lib/backbone.babysitter.js)
+* Development: [backbone.babysitter.js](https://raw.github.com/isochronous/backbone.babysitter/master/lib/backbone.babysitter.js)
 
-* Production: [backbone.babysitter.min.js](https://raw.github.com/marionettejs/backbone.babysitter/master/lib/backbone.babysitter.min.js)
+* Production: [backbone.babysitter.min.js](https://raw.github.com/isochronous/backbone.babysitter/master/lib/backbone.babysitter.min.js)
 
 ### RequireJS (AMD) Builds
 
-* Development: [backbone.babysitter.js](https://raw.github.com/marionettejs/backbone.babysitter/master/lib/amd/backbone.babysitter.js)
+* Development: [backbone.babysitter.js](https://raw.github.com/isochronous/backbone.babysitter/master/lib/amd/backbone.babysitter.js)
 
-* Production: [backbone.babysitter.min.js](https://raw.github.com/marionettejs/backbone.babysitter/master/lib/amd/backbone.babysitter.min.js)
+* Production: [backbone.babysitter.min.js](https://raw.github.com/isochronous/backbone.babysitter/master/lib/amd/backbone.babysitter.min.js)
 
 ## Documentation
 
@@ -224,9 +228,9 @@ For more information about these methods, see the [Underscore.js documentation](
 
 ## ChangeLog
 
-For a complete change log, see the [CHANGELOG.md](https://github.com/marionettejs/backbone.babysitter/blob/master/CHANGELOG.md)
+For a complete change log, see the [CHANGELOG.md](https://github.com/isochronous/backbone.babysitter/blob/master/CHANGELOG.md)
 file.
 
 ## License
 
-MIT - see [LICENSE.md](https://github.com/marionettejs/backbone.babysitter/blob/master/LICENSE.md)
+MIT - see [LICENSE.md](https://github.com/isochronous/backbone.babysitter/blob/master/LICENSE.md)
