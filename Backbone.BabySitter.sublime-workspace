@@ -1,0 +1,1224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i18n"
+			],
+			[
+				"rjs",
+				"rjsDef	marionette-module"
+			],
+			[
+				"plugin",
+				"plugin	plugin (method basic)"
+			],
+			[
+				"j",
+				"jQuery	jQuery (Select or Create DOM Element)"
+			],
+			[
+				"widget",
+				"widget	jquery-widget"
+			],
+			[
+				"effe",
+				"effectRegion"
+			],
+			[
+				"eff",
+				"effectCloseOptions"
+			],
+			[
+				"promi",
+				"promise2"
+			],
+			[
+				"initialize",
+				"initializeJqueryControls"
+			],
+			[
+				"initia",
+				"initializeJqueryControls"
+			],
+			[
+				"allow",
+				"allowScriptTags"
+			],
+			[
+				"check",
+				"checkFor2Col"
+			],
+			[
+				"register",
+				"registerNamespace"
+			],
+			[
+				"Arial",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"animate",
+				".animate	animate"
+			],
+			[
+				"hbx",
+				"hbxSample"
+			],
+			[
+				"googleSamp",
+				"googleSampleCode"
+			],
+			[
+				"text",
+				"text/javascript"
+			],
+			[
+				"options",
+				"optionsForWidget"
+			],
+			[
+				"anima",
+				"animateSpeed"
+			],
+			[
+				"data-",
+				"data-control-id"
+			],
+			[
+				"collapsed",
+				"collapsedZoom"
+			],
+			[
+				"scale",
+				"scaleFrameElement"
+			],
+			[
+				"collap",
+				"collapsedZoom"
+			],
+			[
+				"coll",
+				"collapsedZoom"
+			],
+			[
+				"expand",
+				"expandedZoom"
+			],
+			[
+				"colla",
+				"collapsedStyle"
+			],
+			[
+				"userStyle",
+				"userStylesheetURI"
+			],
+			[
+				"stylepreview",
+				"stylepreviewcontainer"
+			],
+			[
+				"theme",
+				"theme"
+			],
+			[
+				"css",
+				".css	css"
+			],
+			[
+				"ajax",
+				"$.ajax	jQuery AJAX call"
+			],
+			[
+				"htm",
+				"html"
+			],
+			[
+				"gr",
+				"hoverGrowSpeed"
+			],
+			[
+				"fix",
+				"paneFixedLarge"
+			],
+			[
+				"ki",
+				"killSwitch"
+			],
+			[
+				"_",
+				"_setKillSwitchState"
+			],
+			[
+				"init",
+				"initialTop"
+			],
+			[
+				"initial",
+				"initialOffsetTop"
+			],
+			[
+				"viewport",
+				"viewportHeight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Sublime-JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"set mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set jquery",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"todo",
+				"Show TODOs: Open files only"
+			],
+			[
+				"snip modul",
+				"Snippet: Backbone requirejs Module definition"
+			],
+			[
+				"Snippet: mar",
+				"Snippet: Backbone.Marionette ItemView"
+			],
+			[
+				"scope",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"amd",
+				"AMDtools: List dependent modules"
+			],
+			[
+				"clipboard",
+				"Clipboard History"
+			],
+			[
+				"index",
+				"Indent XML"
+			],
+			[
+				"abac",
+				"Abacus: align selection"
+			],
+			[
+				"aba",
+				"Abacus: align selection"
+			],
+			[
+				"abacu",
+				"Abacus: align selection"
+			],
+			[
+				"set task",
+				"Set Syntax: Task"
+			],
+			[
+				"set markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdow",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"wrap",
+				"Snippet: wrap"
+			],
+			[
+				"quotes",
+				"Bracket Highlighter: Swap Quotes"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"set haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"delete trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"set sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"set c#",
+				"Set Syntax: C#"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"set jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"set jqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"unfold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"tidy css",
+				"Tidy CSS"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"css",
+				"Tidy CSS"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"favo",
+				"Favorite Files: Open File(s)"
+			],
+			[
+				"set asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"set jquer",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"fav",
+				"Favorite Files: Open File(s)"
+			],
+			[
+				"add f",
+				"Favorite Files: Add File(s)"
+			],
+			[
+				"add",
+				"Favorite Files: Add File(s)"
+			],
+			[
+				"line",
+				"Zen Coding: Merge lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: widg",
+				"Snippet: jquery-widget"
+			],
+			[
+				"syntax jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"unfo",
+				"Code Folding: Unfold All"
+			],
+			[
+				"syntax jqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"scop",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"syn xml",
+				"Set Syntax: XML"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"format ",
+				"Format: Javascript"
+			],
+			[
+				"jslint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax: css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"jslin",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"fold",
+				"Folders List"
+			],
+			[
+				"theme",
+				"Sweyla's Color Theme Generator: Generate bright!"
+			],
+			[
+				"unfold all",
+				"Code Folding: Unfold All"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: H",
+				"Set Syntax: HTML5"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"discover",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install pak",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install PAckage",
+				"Package Control: Install Package"
+			],
+			[
+				"package install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Discover Packages",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Discover",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 698.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/shared/model.conteststep.js",
+		"/C/Users/jeremy.mcleod/Desktop/temp/index.html",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[components]/wizards/model.step.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[components]/wizards/view.step.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[components]/wizards/stepviewcontainer.wizard.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/require-config.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/DigitalIvyAdmin.App.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[assets]/backbone/backbone.deep-model.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[assets]/requirejs/speck.js",
+		"/C/Dev/Github/Triton-di-admin/README.md",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/shared/util.parser.stepinfo.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/jeremy.mcleod/AppData/Local/Temp/fz3temp-1/google-analytics.js",
+		"/C/Users/jeremy.mcleod/Desktop/google1013f64dde2b7d15.html",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/sweeps/model.sweepsstep.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[assets]/triton/logging.js",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[assets]/underscore/underscore.deepclone.js",
+		"/C/Dev/Nuget/jqueryui-amd/Content/css/themes/base/jquery-ui/jquery-ui.css",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/shared/[templates]/contestcreator.dust",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/sweeps/model.sweeps.master.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/shared/conteststep.Model.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/shared/contestmaster.Model.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/sweeps/steps/[models]/model.basicsettings.js",
+		"/C/Dev/temp/require-config.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[core]/backbone.marionette.async.js",
+		"/C/Dev/GitHub/triton-di-admin/JsAdmin/Scripts/[assets]/backbone/backbone.deep-model.js",
+		"/C/Dev/ide/collide/collide.bat",
+		"/C/Dev/GitHub/triton-di-admin/Api.TritonAdmin.LoadContestStep Example Response.json",
+		"/C/Dev/GitHub/triton-di-admin/Api.LoadFullContest Example Response.json",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin.sln",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/shared/view.conteststep.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/contestcreator.controller.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/shared/layout.contestwizard.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/[templates]/contestcreator.link.dust",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[assets]/triton/api.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/sweeps/[templates]/basicsettings.dust",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[assets]/marionette/Marionette.SubAppRouter.js",
+		"/C/development/TL-Main/Sandbox/Ben/DigitalIvyDemo/DigitalIvyDemo/Content/Scripts/digitalIvy/0_1/digitalIvy.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/shared/conteststep.Layout.js",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[assets]/triton/core.js",
+		"/C/Dev/GitHub/triton-di-admin/JsAdmin/Scripts/[assets]/triton/enhance.js",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/NaturalDocs/Default.sublime-keymap",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/sweeps/steps/[templates]/basicsettings.dust",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/NaturalDocs/NaturalDocs.sublime-settings",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/NaturalDocs.sublime-settings",
+		"/C/Dev/jQuery Plugins/jquery-events-calendar/js/jquery.eventCalendar.js",
+		"/C/Dev/GitHub/triton-di-admin/JsAdmin/Scripts/contestcreator/sweeps/sweeps.templates.js",
+		"/C/development/TL-Main/MainTrunk/Apps/Contest/v1.32/Dev/Source/UGC_Contest/ContestAdmin/TL.Contest.AdminUI/Scripts/Triton/triton-env.js",
+		"/C/temp/index.md",
+		"/C/Dev/GitHub/triton-di-admin/index.html",
+		"/C/Dev/GitHub/triton-di-admin/JsAdmin/Scripts/[core]/backbone.marionette.async.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[core]/backbone.marionette.js",
+		"/C/Users/jeremy.mcleod/Desktop/JsAdmin Backup/Scripts/contestcreator/shared/navigation.Model.js",
+		"/C/Users/jeremy.mcleod/Desktop/JsAdmin Backup/Scripts/require-config.js",
+		"/C/Users/jeremy.mcleod/Desktop/JsAdmin Backup/Scripts/contestcreator/shared/contestmaster.Model.js",
+		"/C/Users/jeremy.mcleod/Dev/Projects/JS-Admin.sublime-project",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[assets]/backbone/backbone-nested.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/navigation/Model.wizard.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/navigation/Model.base.js",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/PlainTasks.sublime-settings",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/Default (Windows).sublime-keymap",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Jeremy.todo",
+		"/C/Users/jeremy.mcleod/Dropbox/Apps/sublime/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/Users/jeremy.mcleod/Dropbox/Apps/sublime/Packages/PlainTasks/Main.sublime-menu",
+		"/C/Users/jeremy.mcleod/Dropbox/Apps/sublime/Packages/PlainTasks/Default.sublime-commands",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/navigation/Model.navigation.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/navigation/navigation.Model.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/shared/navigation.Model.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[assets]/backbone/backbone-relational.js",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/package-metadata.json",
+		"/C/Dev/GitHub/README.md",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/sweeps/sweepsstep.model.js",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/Package Control[Conflict].sublime-settings",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Settings/Session.sublime_session",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/SyncedSideBar/SyncedSideBar.sublime-settings",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/SyncedSideBar/README.md",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Backup/20121002123659/Default/Preferences.sublime-settings",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"//enticent/technology/Sublime Text Snippets/Marionette+RequireJS/marionette-module.sublime-snippet",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[core]/dust-full-1.1.1.js",
+		"//enticent/technology/Sublime Text Snippets/jQuery/jquery-widget.sublime-snippet",
+		"/C/Users/jeremy.mcleod/Dropbox/Java interface class projects/McLeod milestone 6 (final)/McLeod/src/Siger.java",
+		"/C/Users/jeremy.mcleod/Dropbox/Java interface class projects/McLeod milestone 6 (final)/McLeod/src/GestureTemplates.java",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/shared/jqueryui-effect.Region.js",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/jQuery Snippets pack/plugin-boilerplate.sublime-snippet",
+		"/C/Users/jeremy.mcleod/Desktop/bundler settings/IntelliJ IDEA Global Settings",
+		"/C/Users/jeremy.mcleod/Desktop/disable open file security warning.reg",
+		"/C/Dev/Github/triton-di-admin/JsAdmin/Scripts/shared/bodyview.js",
+		"/C/Development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/shared/contestdesigner.View.js",
+		"/C/Development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/contestcreator.controller.js",
+		"/C/Development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/sweeps/sweepsstep.view.js",
+		"/C/Development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/shared/stepview.View.js",
+		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/shared/slide.Region.js",
+		"/C/development/TL-Main/Sandbox/Jeremy/nuget.config",
+		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/packages.config",
+		"/C/Development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/[core]/backbone.marionette.async.js",
+		"/C/Dev/GitHub/triton-di-admin/JsAdmin/Jeremy.todo",
+		"/C/Development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/require-config.js",
+		"/C/Dev/GitHub/backbone.marionette/index.html",
+		"/C/Development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/shared/conteststep.Layout.js",
+		"/C/Dev/GitHub/backbone.marionette/readme.md.orig",
+		"/C/Users/jeremy.mcleod/Desktop/sketchbook/project/src/Siger.java",
+		"/C/Users/jeremy.mcleod/Desktop/sketchbook/project/src/GestureTemplates.java",
+		"/C/development/TL-Main/Sandbox/Jeremy/temp/foo.stylus",
+		"/C/temp/jqueryui/jqueryui/effects/core.js",
+		"/C/temp/jqueryui/jqueryui/widget.js",
+		"/C/temp/jqueryui/jqueryui/effects/clip.js",
+		"/C/temp/jqueryui/package.json",
+		"/C/Dev/Github/triton-di-admin/.gitignore",
+		"/C/Dev/Github/triton-di-admin/JsAdmin.sln",
+		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/shared/conteststep.Layout.js",
+		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/[templates]/contestcreator.dust",
+		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/shared/contestmaster.Model.js",
+		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/DigitalIvyAdmin.App.js",
+		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/contestcreator.router.js",
+		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/[core]/backbone.marionette.async.js",
+		"/C/Dev/GitHub/backbone.marionette.async/public/javascripts/backbone.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Dev\\GitHub\\triton-di-admin\\JsAdmin\\Scripts",
+			"",
+			"*.cshtml"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"prefix",
+			"¶",
+			"¶\\r",
+			"ajax",
+			"marionette.renderer",
+			"marionette.region",
+			"exports",
+			"origami",
+			"$",
+			"header.min.js",
+			"body.min.js",
+			"variable",
+			"ContestCreator",
+			"contestcreator",
+			"ContestCreator",
+			".bundle",
+			".min.js",
+			"Content\\Content\\themes\\base",
+			".test(/",
+			">\n",
+			"undefined",
+			";",
+			"TL.Facebook.Business",
+			"triggerHandler",
+			"script",
+			".filter(\":not(.no-uniform)\")",
+			".uniform()",
+			".attr('checked', 'checked')",
+			".attr('disabled', '')",
+			".attr('checked', false)",
+			".attr('checked')",
+			".attr('disabled', 'disabled')",
+			".removeAttr('checked')",
+			"removeAttr(\"checked\")",
+			".attr('checked', true)",
+			"font-family",
+			"font-family: Verdana, Arial, 'Times New Roman';",
+			"font-family",
+			"47",
+			"86",
+			"47",
+			"di",
+			"DI",
+			"di",
+			"log",
+			"LABEL_REQUIRED_FIELD",
+			"400495",
+			"headerUploader",
+			"ViewBag.FileLocation",
+			"FileLocation",
+			"userStylesheet",
+			"userStylesheetURI",
+			"imageUrlBase",
+			"themeStylesheet",
+			"themestylesheet",
+			"themeStylesheet",
+			"themestylesheet",
+			"themeStylesheet",
+			"themestylesheet",
+			"themeStylesheet",
+			"tempStylesheet",
+			"modelBase",
+			"href",
+			"data-dirty",
+			"attr",
+			"right",
+			".tooltip(",
+			"4px",
+			"getPropSelValFor",
+			"link",
+			"$this",
+			"hoverGrowSpeed",
+			"trigger",
+			"                $",
+			"colorUpdated",
+			"minHeight",
+			"maxHeight",
+			"@",
+			"contestThemeType",
+			"parent$",
+			"that",
+			"val",
+			"border",
+			"frameStyle",
+			"paneInDesktopMode",
+			"previewpanewrapper",
+			"*zoom",
+			"zoom",
+			"paneIsLarge",
+			"paneInDesktopMode",
+			"paneFixedLarge",
+			"label",
+			"options",
+			"jQuery",
+			"expandedZoom",
+			"options",
+			"_expandedStyleFixedPos",
+			"collapsedStyle",
+			"document",
+			"DOCUMENT",
+			"document",
+			"DOCUMENT",
+			"document",
+			"  ",
+			"@",
+			"pixel.png",
+			"ctrl+j",
+			"$",
+			"this",
+			"$this",
+			"that.options",
+			"that",
+			"_animate",
+			"this",
+			"options",
+			"t",
+			"that",
+			"options",
+			"that",
+			"theme",
+			"queue"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Content\\Content\\css\\themes\\base\\jquery-ui",
+			"container",
+			"    ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.amdtools_view":
+	{
+		"height": 186.0
+	},
+	"output.exec":
+	{
+		"height": 323.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 395.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 417.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"async",
+				"JsAdmin/Scripts/[core]/backbone.marionette.async.js"
+			],
+			[
+				".layout.",
+				"Scripts/contestcreator/shared/conteststep.Layout.js"
+			],
+			[
+				".async",
+				"Scripts/[core]/backbone.marionette.async.js"
+			],
+			[
+				"marionasyn",
+				"Scripts/[core]/backbone.marionette.async.js"
+			],
+			[
+				"jquery-1.8.",
+				"ContestAdmin/TL.Contest.AdminUI/Scripts/jquery-1.8.2.js"
+			],
+			[
+				"require",
+				"ContestAdmin/TL.Contest.AdminUI/Scripts/require.js"
+			],
+			[
+				".csproj",
+				"ContestAdmin/TL.Contest.AdminUI/TL.Contest.AdminUI.csproj"
+			],
+			[
+				"jquery.detec",
+				"TL.Contest.WebUI/Scripts/jquery-ext/jquery.detectmobile.js"
+			],
+			[
+				"triton-env",
+				"TL.Contest.WebUI/Scripts/Triton/triton-env.js"
+			],
+			[
+				"viewentry",
+				"TL.Contest.WebUI/Views/UGC/ViewEntry.cshtml"
+			],
+			[
+				"triton-",
+				"TL.Contest.WebUI/Scripts/Triton/triton-env.js"
+			],
+			[
+				"_layout.csh",
+				"TL.Contest.WebUI/Views/Shared/_Layout.cshtml"
+			],
+			[
+				"_fb",
+				"TL.Contest.WebUI/Areas/Facebook/Views/Shared/_fbLayout.cshtml"
+			],
+			[
+				"jquery.style",
+				"TL.Contest.AdminUI/Scripts/jquery.styleEditorPreview.js"
+			],
+			[
+				"cleditor",
+				"TL.Contest.AdminUI/Content/cleditor/jquery.cleditor.js"
+			],
+			[
+				"layout.js",
+				"TL.Contest.AdminUI/Content/Javascript/Views/Shared/_Layout.js"
+			],
+			[
+				"emailblast.js",
+				"TL.Contest.AdminUI/Content/Javascript/Views/ContestAdmin/EmailBlast.js"
+			],
+			[
+				"triton-name",
+				"TL.Contest.AdminUI/Scripts/Triton/triton-namespace.js"
+			],
+			[
+				"fieldmetadatamodel",
+				"TL.Contest.AdminUI/Areas/Sweepstakes/Views/Admin/EditorTemplates/FieldMetadataModel.cshtml"
+			],
+			[
+				"fieldmeta",
+				"TL.Contest.AdminUI/Models/ViewModels/FieldMetadataModel.cs"
+			],
+			[
+				"sethtml",
+				"TL.Contest.AdminUI/Views/ContestAdmin/StyleOverrideTemplate.cshtml"
+			],
+			[
+				"submissionitems",
+				"TL.Contest.AdminUI/Areas/UserGeneratedContent/Views/ContentAdmin/SubmissionItems.cshtml"
+			],
+			[
+				"styleeditor",
+				"TL.Contest.AdminUI/Scripts/jquery.styleEditorPreview.js"
+			],
+			[
+				"styleedit",
+				"TL.Contest.AdminUI/Scripts/jquery.styleEditorPreview.js"
+			],
+			[
+				"theme.cshtml",
+				"TL.Contest.AdminUI/Views/ContestAdmin/Theme.cshtml"
+			],
+			[
+				"theme",
+				"TL.Contest.AdminUI/Views/ContestAdmin/Theme.cshtml"
+			],
+			[
+				"styleed",
+				"TL.Contest.AdminUI/Scripts/jquery.styleEditorPreview.js"
+			],
+			[
+				"jquery.ui.theme",
+				"TL.Contest.AdminUI/Content/themes/base/jquery.ui.theme.css"
+			],
+			[
+				"jquery-ui.css",
+				"TL.Contest.AdminUI/Content/CSS/jgrid/themes/base/jquery-ui.css"
+			],
+			[
+				"jquery-ui-minify",
+				"TL.Contest.AdminUI/Content/CSS/jgrid/themes/base/jquery-ui-minify.css"
+			],
+			[
+				"multisite.css",
+				"TL.Contest.AdminUI/Content/CSS/MultiSite.css"
+			],
+			[
+				"ajax",
+				"TL.Contest.AdminUI/Content/CSS/ajaxToolboxStyles.css"
+			],
+			[
+				"example",
+				"TL.Contest.AdminUI/Views/ContestAdmin/_ExampleHeaderCode.cshtml"
+			],
+			[
+				"universa",
+				"TL.Contest.AdminUI/Views/ContestAdmin/UniversalOptions.cshtml"
+			],
+			[
+				"_j",
+				"ContestClient/TL.Contest.WebUI/Views/Shared/_JavascriptMvcHelpers.cshtml"
+			],
+			[
+				"client_layout.cs",
+				"ContestClient/TL.Contest.WebUI/Views/Shared/_Layout.cshtml"
+			],
+			[
+				"sf-redi",
+				"ContestClient/TL.Contest.WebUI/Scripts/stickyfish/sf-redirect.js"
+			],
+			[
+				"sf-redirect.js",
+				"ContestClient/TL.Contest.WebUI/Scripts/stickyfish/sf-redirect.js"
+			],
+			[
+				"styleover",
+				"ContestAdmin/TL.Contest.AdminUI/Views/ContestAdmin/StyleOverrideSweepsTemplate.cshtml"
+			],
+			[
+				"_layout.js",
+				"ContestAdmin/TL.Contest.AdminUI/Content/Javascript/Views/Shared/_Layout.js"
+			],
+			[
+				"_layout",
+				"ContestAdmin/TL.Contest.AdminUI/Views/Shared/_Layout.cshtml"
+			],
+			[
+				"alert.js",
+				"ContestAdmin/TL.Contest.AdminUI/Content/Javascript/Alert.js"
+			],
+			[
+				"mash.",
+				"ContestAdmin/TL.Contest.AdminUI/Config/mash.chirp.config"
+			],
+			[
+				"styleoverr",
+				"ContestAdmin/TL.Contest.AdminUI/Views/ContestAdmin/StyleOverrideTemplate.cshtml"
+			],
+			[
+				"theme.css",
+				"ContestAdmin/TL.Contest.AdminUI/Content/CSS/Views/ContestAdmin/theme.css"
+			],
+			[
+				"styleditorpre",
+				"ContestAdmin/TL.Contest.AdminUI/Scripts/jquery.styleEditorPreview.js"
+			],
+			[
+				"minicolors",
+				"ContestAdmin/TL.Contest.AdminUI/Scripts/jquery.miniColors.js"
+			],
+			[
+				"scrollto",
+				"ContestAdmin/TL.Contest.AdminUI/Scripts/jquery.scrollToFollow.js"
+			],
+			[
+				"theme.csh",
+				"ContestAdmin/TL.Contest.AdminUI/Views/ContestAdmin/Theme.cshtml"
+			],
+			[
+				"client_layout.js",
+				"ContestClient/TL.Contest.WebUI/Scripts/Views/Shared/_Layout.js"
+			],
+			[
+				"theme.cs",
+				"ContestAdmin/TL.Contest.AdminUI/Views/ContestAdmin/Theme.cshtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 637.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/jeremy.mcleod/Dev/Projects/Speck.sublime-project"
+			],
+			[
+				"marion",
+				"/C/Users/jeremy.mcleod/Dev/Projects/Marionette.sublime-project"
+			],
+			[
+				"speck",
+				"/C/Users/jeremy.mcleod/Dev/Projects/Speck.sublime-project"
+			],
+			[
+				"async",
+				"/C/Users/jeremy.mcleod/Dev/Projects/Marionett.Async.sublime-project"
+			],
+			[
+				"bundler",
+				"/C/Users/jeremy.mcleod/Dev/Projects/Bundler.sublime-project"
+			],
+			[
+				"docu",
+				"/C/Users/jeremy.mcleod/Dev/Projects/Documentation.sublime-project"
+			],
+			[
+				"do",
+				"/C/Users/jeremy.mcleod/Dev/Projects/Documentation.sublime-project"
+			],
+			[
+				"docum",
+				"/C/Users/jeremy.mcleod/Dev/Projects/Documentation.sublime-project"
+			],
+			[
+				"doc",
+				"/C/Users/jeremy.mcleod/Dev/Projects/Documentation.sublime-project"
+			],
+			[
+				"jsadmin",
+				"/C/Users/jeremy.mcleod/Dev/Projects/JS-Admin.sublime-project"
+			],
+			[
+				"bun",
+				"/C/Users/jeremy.mcleod/Dev/Projects/Bundler.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true
+}
