@@ -15,7 +15,7 @@ list of views.
 
 ## Specific to this Fork
 
-This fork was created because I wanted an initialize method to be available on Backbone.BabySitter, and I wanted `pluck` from Underscore's collection methods to be added to the list of methods borrowed from underscore.  Those are currently the only differences between this fork and the original version of BabySitter.
+This fork was created because I wanted an initialize method to be available on Backbone.BabySitter, and I wanted `pluck` from Underscore's collection methods to be added to the list of methods borrowed from underscore.  I also added the ability to sub-class BabySitter's `ChildViewContainer` a-la Backbone.Model's `extend` method.  Those are currently the only differences between this fork and the original version of BabySitter.
 
 ## Downloads And Source
 

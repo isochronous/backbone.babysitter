@@ -9,9 +9,11 @@ module.exports = function(grunt) {
     meta: {
       version: '0.0.3.1',
       banner: '// Backbone.BabySitter, v<%= meta.version %>\n' +
-        '// Copyright (c)<%= grunt.template.today("yyyy") %> Derick Bailey, Muted Solutions, LLC.\n' +
+        '// Primary Copyright (c)<%= grunt.template.today("yyyy") %> Derick Bailey, Muted Solutions, LLC.\n' +
         '// Distributed under MIT license\n' +
-        '// http://github.com/marionettejs/backbone.babysitter'
+        '// http://github.com/marionettejs/backbone.babysitter\n' +
+        '// Custom version by Jeremy McLeod, Isochronous.org\n' +
+        '// http://github.com/isochronous/backbone.babysitter'
     },
 
     lint: {
