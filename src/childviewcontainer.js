@@ -10,14 +10,17 @@ Backbone.ChildViewContainer = (function(Backbone, _) {
     // ---------------------
 
     var Container = function(options) {
+        this.options = options || (options = {});
         this._views = {};
         this._indexByModel = {};
         this._indexByCollection = {};
         this._indexByCustom = {};
         this._updateLength();
 
-        if (_.isFunction(this.initialize)) {
-            this.initialize(options);
+        var init = options.initialize || this.initialize || null;
+
+        if (_.isFunction(init)) {
+            init.apply(this, arguments);
         }
     };
 
