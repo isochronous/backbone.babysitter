@@ -75,6 +75,16 @@ Note that the custom indexer should be unique within the container. If you
 add two different views with the same custom indexer, the last one in will
 be the only one stored by that index key.
 
+### Constructing With Views
+
+An initial list of views can be added to the container through the
+constructor function call. This list must be an array of view instances:
+
+```js
+var views = [someView, anotherView];
+var container = new Backbone.ChildViewContainer(views);
+```
+
 ### Retrieving Views
 
 You can retrieve a view by any of the index:
@@ -217,7 +227,7 @@ container.add(v2);
 container.add(v3);
 
 // iterate over all of the views
-contianer.each(function(view){
+container.each(function(view){
   
   // process each view individually, here
 

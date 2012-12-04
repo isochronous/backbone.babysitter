@@ -1,8 +1,14 @@
 # Change log
 
-### v0.0.3.1
+### v0.0.4.1
 
-* Constructor now calls initialize if defined, and `pluck` was added to the list of methods borrowed from underscore.
+* Fork to provide extend, parse, and initialize methods
+
+### v0.0.4
+
+* Added a fix for IE < 9, when applying a function to the views
+* Added `.pluck` as a method, from Underscore.js
+* Can specify an array of views to the container constructor
 
 ### v0.0.3
 
@@ -16,3 +22,4 @@
 ### v0.0.1
 
 * Initial release
+

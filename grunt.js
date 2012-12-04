@@ -7,11 +7,12 @@ module.exports = function(grunt) {
   // Project configuration.
   grunt.initConfig({
     meta: {
-      version: '0.0.3.1',
+      version: '0.0.4.1',
       banner: '// Backbone.BabySitter, v<%= meta.version %>\n' +
-        '// Copyright (c)<%= grunt.template.today("yyyy") %> Derick Bailey, Muted Solutions, LLC.\n' +
+        '// Primary Copyright (c)<%= grunt.template.today("yyyy") %> Derick Bailey, Muted Solutions, LLC.\n' +
         '// Distributed under MIT license\n' +
-        '// http://github.com/marionettejs/backbone.babysitter'
+        '// http://github.com/marionettejs/backbone.babysitter\n' +
+        '// Modified fork Copyright (c)<%= grunt.template.today("yyyy") %> Jeremy McLeod, Isochronous.org'
     },
 
     lint: {
