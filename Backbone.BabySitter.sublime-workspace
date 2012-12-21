@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"customInd",
+				"customIndexProperty"
+			],
+			[
 				"i",
 				"i18n"
 			],
@@ -167,13 +171,29 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/amd.js",
+			"settings":
+			{
+				"buffer_size": 446,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/Sublime-JSHint/JSHint.sublime-build",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 205.0,
 		"selected_items":
 		[
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"set javascr",
+				"Set Syntax: JavaScript"
+			],
 			[
 				"remove",
 				"Package Control: Remove Package"
@@ -211,16 +231,8 @@
 				"Set Syntax: JavaScript"
 			],
 			[
-				"format",
-				"Format: Javascript"
-			],
-			[
 				"convert",
 				"Indentation: Convert to Spaces"
-			],
-			[
-				"set javascr",
-				"Set Syntax: JavaScript"
 			],
 			[
 				"set jquery",
@@ -600,7 +612,16 @@
 	},
 	"file_history":
 	[
+		"/C/Dev/GitHub/backbone.babysitter/readme.md",
+		"/C/Dev/GitHub/backbone.babysitter/CHANGELOG.md",
+		"/C/Dev/GitHub/backbone.babysitter/grunt.js",
+		"/C/Dev/GitHub/backbone.babysitter/src/childviewcontainer.js",
+		"/C/Dev/GitHub/backbone.babysitter/.git/config",
+		"/C/Dev/GitHub/backbone.babysitter/LICENSE.md",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Dev/GitHub/backbone.babysitter/Backbone.BabySitter.sublime-project",
 		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/shared/model.conteststep.js",
 		"/C/Users/jeremy.mcleod/Desktop/temp/index.html",
@@ -618,7 +639,6 @@
 		"/C/Users/jeremy.mcleod/Desktop/google1013f64dde2b7d15.html",
 		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/sweeps/model.sweepsstep.js",
 		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[assets]/triton/logging.js",
-		"/C/Users/jeremy.mcleod/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/[assets]/underscore/underscore.deepclone.js",
 		"/C/Dev/Nuget/jqueryui-amd/Content/css/themes/base/jquery-ui/jquery-ui.css",
 		"/C/Dev/Github/Triton-di-admin/JsAdmin/Scripts/contestcreator/shared/[templates]/contestcreator.dust",
@@ -719,15 +739,7 @@
 		"/C/temp/jqueryui/jqueryui/widget.js",
 		"/C/temp/jqueryui/jqueryui/effects/clip.js",
 		"/C/temp/jqueryui/package.json",
-		"/C/Dev/Github/triton-di-admin/.gitignore",
-		"/C/Dev/Github/triton-di-admin/JsAdmin.sln",
-		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/shared/conteststep.Layout.js",
-		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/[templates]/contestcreator.dust",
-		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/shared/contestmaster.Model.js",
-		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/DigitalIvyAdmin.App.js",
-		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/contestcreator/contestcreator.router.js",
-		"/C/development/TL-Main/Sandbox/Jeremy/JsAdmin/Scripts/[core]/backbone.marionette.async.js",
-		"/C/Dev/GitHub/backbone.marionette.async/public/javascripts/backbone.js"
+		"/C/Dev/Github/triton-di-admin/.gitignore"
 	],
 	"find":
 	{
@@ -748,6 +760,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"_parser",
+			"Open Sans",
 			"prefix",
 			"¶",
 			"¶\\r",
@@ -876,6 +890,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"parser",
+			"Segoe UI",
 			"Content\\Content\\css\\themes\\base\\jquery-ui",
 			"container",
 			"    ",
@@ -890,8 +906,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/amd.js",
+					"settings":
+					{
+						"buffer_size": 446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "c8df5e3f",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

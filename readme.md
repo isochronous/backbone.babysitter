@@ -4,23 +4,17 @@ Manage child views in a Backbone.View.
 
 ## About Backbone.BabySitter
 
-Backbone provides a lot of functionality in it's views, but does not directly
-provide a way to manage child views or nested views. This is not terribly
-difficult to do on your own, but it gets tedious to write the same code
-over and over again.
+Backbone provides a lot of functionality in it's views, but does not directlyprovide a way to manage child views or nested views. This is not terriblydifficult to do on your own, but it gets tedious to write the same codeover and over again.
 
-Backbone.BabySitter provides a simple way to manage an unknown number of
-child views within a Backbone.View, or other object that needst to track a
-list of views.
+Backbone.BabySitter provides a simple way to manage an unknown number ofchild views within a Backbone.View, or other object that needst to track alist of views.
 
 ## Specific to this Fork
 
-This fork was created because I wanted an initialize method to be available on Backbone.BabySitter, and I wanted `pluck` from Underscore's collection methods to be added to the list of methods borrowed from underscore.  Those are currently the only differences between this fork and the original version of BabySitter.
+This fork was created because I wanted an initialize method to be available on Backbone.BabySitter, I wanted to be able to extend the class, and I wanted the ability to parse views before adding.  Right now check out the code itself for additional documentation - the constructor is documented with JsDoc3 and should explain all of the primary differences between this fork and the original babysitter.
 
 ## Downloads And Source
 
-Grab the source from the `src` folder above. Grab the most recent builds
-from the links below.
+Grab the source from the `src` folder above. Grab the most recent buildsfrom the links below.
 
 ### Standard Builds
 
@@ -36,9 +30,7 @@ from the links below.
 
 ## Documentation
 
-Backbone.BabySitter exposes one constructor function: `Backbone.ChildViewContainer`.
-This constructor function contains all of the necessary code for managing a list of
-views.
+Backbone.BabySitter exposes one constructor function: `Backbone.ChildViewContainer`.This constructor function contains all of the necessary code for managing a list ofviews.
 
 Backbone.BabySitter's ChildViewContainer class also implements the same `extend` method from Marionette and Backbone, so you can create "sub-classes" that, for example, define an `initialize` method on the ChildViewContainer.
 
@@ -64,21 +56,17 @@ Views will be stored once and indexed in several ways:
 * by `view.collection.cid` if the view has a collection
 * by a custom index key
 
-When adding a view, you can optionally specify a custom index key 
-by which you can later retrieve the view.
+When adding a view, you can optionally specify a custom index key by which you can later retrieve the view.
 
 ```js
 container.add(aView, "an indexer");
 ```
 
-Note that the custom indexer should be unique within the container. If you
-add two different views with the same custom indexer, the last one in will
-be the only one stored by that index key.
+Note that the custom indexer should be unique within the container. If youadd two different views with the same custom indexer, the last one in willbe the only one stored by that index key.
 
 ### Constructing With Views
 
-An initial list of views can be added to the container through the
-constructor function call. This list must be an array of view instances:
+An initial list of views can be added to the container through theconstructor function call. This list must be an array of view instances:
 
 ```js
 var views = [someView, anotherView];
@@ -134,12 +122,7 @@ the resulting view.
 
 ### Executing Methods On All Views
 
-You can execute any arbitrary method with any arbitrary parameters on all of
-the views within the container. There are two ways to do this: `container.call`
-and `container.apply`. These methods work similarly to `function.call` and
-`function.apply` in how parameters are passed through. However, they do not
-allow the context to be specified. The view on which a method is being called
-will always be the context of the call.
+You can execute any arbitrary method with any arbitrary parameters on all ofthe views within the container. There are two ways to do this: `container.call`and `container.apply`. These methods work similarly to `function.call` and`function.apply` in how parameters are passed through. However, they do notallow the context to be specified. The view on which a method is being calledwill always be the context of the call.
 
 ```js
 var View = Backbone.View.extend({
@@ -164,14 +147,11 @@ container.call("doStuff", 1, 2);
 container.apply("doStuff", [1, 2]);
 ```
 
-If any given view within the container does not have the method specified, it
-will not be called on that view. No errors will be thrown in this situation.
+If any given view within the container does not have the method specified, itwill not be called on that view. No errors will be thrown in this situation.
 
 ### Get The Number Of Stored Views
 
-To get the number of stored views, call the `container.length` 
-attribute. This attribute is updated any time a view is added or 
-removed.
+To get the number of stored views, call the `container.length` attribute. This attribute is updated any time a view is added or removed.
 
 ```js
 var container = new Backbone.ChildViewContainer();
@@ -189,8 +169,7 @@ console.log(container.length); //=> 2
 
 ### Iterators And Collection Functions
 
-The container object borrows several functions from Underscore.js, to
-provide iterators and other collection functions, including:
+The container object borrows several functions from Underscore.js, toprovide iterators and other collection functions, including:
 
 * forEach
 * each
@@ -216,8 +195,7 @@ provide iterators and other collection functions, including:
 * without
 * isEmpty
 
-These methods can be called directly on the container, to iterate and
-process the views held by the container.
+These methods can be called directly on the container, to iterate andprocess the views held by the container.
 
 ```js
 var container = new Backbone.ChildViewContainer();
@@ -238,8 +216,7 @@ For more information about these methods, see the [Underscore.js documentation](
 
 ## ChangeLog
 
-For a complete change log, see the [CHANGELOG.md](https://github.com/isochronous/backbone.babysitter/blob/master/CHANGELOG.md)
-file.
+For a complete change log, see the [CHANGELOG.md](https://github.com/isochronous/backbone.babysitter/blob/master/CHANGELOG.md)file.
 
 ## License
 
